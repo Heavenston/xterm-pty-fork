@@ -1,4 +1,4 @@
-import { Terminal, ITerminalAddon } from "xterm";
+import { Terminal, ITerminalAddon } from "@xterm/xterm";
 import { LineDiscipline } from "./lineDiscipline";
 import { Termios, TermiosConfig } from "./termios";
 export type Signal = "SIGINT" | "SIGQUIT" | "SIGTSTP" | "SIGWINCH";
