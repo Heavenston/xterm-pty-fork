@@ -6,7 +6,7 @@
   "types": "oup/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mame/xterm-pty.git"
+    "url": "git+https://github.com/Heavenston/xterm-pty-fork.git"
   },
   "license": "MIT",
   "scripts": {
@@ -31,9 +31,9 @@
     "typescript": "^4.4.4"
   },
   "bugs": {
-    "url": "https://github.com/mame/xterm-pty/issues"
+    "url": "https://github.com/Heavenston/xterm-pty-fork/issues"
   },
-  "homepage": "https://github.com/mame/xterm-pty#readme",
+  "homepage": "https://github.com/Heavenston/xterm-pty-fork#readme",
   "keywords": [
     "xterm.js",
     "pty",
