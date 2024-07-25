@@ -3,7 +3,7 @@
   "description": "A pty for xterm.js and Emscripten",
   "version": "0.11.0",
   "main": "out/index.js",
-  "types": "oup/index.d.ts",
+  "types": "out/index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Heavenston/xterm-pty-fork.git"
